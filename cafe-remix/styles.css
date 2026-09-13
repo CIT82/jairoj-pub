@@ -20,6 +20,7 @@ h2 {
 
 h1, h2, p {
   text-align: center;
+  border-radius: 15gitpx;
 }
 
 .menu {
@@ -66,7 +67,7 @@ h1, h2 {
 
 .price {
   text-align: right;
-  width: 25%;
+  width: 70%;
 }
 
 /* FOOTER */
