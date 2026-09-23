@@ -46,3 +46,6 @@
 * **Top-Level Classes:** (footer, dark-background,container, copyright, credits)
 * **Research:** dark-background uses a dark color with high contrast,footer applies reduced top and bottom padding, section center aligns text and reduces font sizes in credits the custom css are targeted to apply theme colors.
 
+## Section 4: The Scripts
+* **Vendor JS Files:** (21-25)Bootstrap bundle,AOS,Glightbox,
+* **Main JS File:** (909)<script src="assets/js/main.js"></script>
