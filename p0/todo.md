@@ -13,7 +13,7 @@
 ## Design & Bootstrap
 9. - [] Change theme colors to match a car shop theme like grey and blue
 10. - [] Create bootstrap cards, alerts, transitions
-11. - [] Make page interactive with different fautrues like how car may look with changes
+11. - [] Make page interactive with different features like how car may look with changes
 ## Cleanup
 12. - [] Remove extra sections not needed
 13. - [] Remove the "deeper dropdowns"
